@@ -1,0 +1,100 @@
+
+
+
+.slide img{
+    width: 500px;
+    height: 500px;
+}
+
+.slide {
+    margin: auto;
+    max-width: 1800px;
+    margin-bottom: 20px;
+}
+
+.qwarit {
+    margin-right: auto;
+    margin-left: auto;
+    max-width: 1100px;
+}
+
+.qwarit img{
+    margin-right: auto;
+    margin-left: auto;
+    width: 200px;
+    height: 200px;
+}
+
+  
+.unique-form{
+    width:500px;
+    border:2px solid #E74C3C;
+    padding:2em;
+    border-radius:5px;
+    margin: auto;
+}
+
+section{
+    background-color:#2980B9;
+    max-width:500px;
+    margin:10px auto;
+    border:1px solid #2980B9;
+    padding: 10px;
+    border-radius:5px;
+    text-align: center;
+    color: white;
+}
+
+form>div{
+    display: flex;
+    margin: 3px;
+}
+
+label{
+    display:block;
+    padding:.5em;
+    margin-right: 5px;
+    text-transform:uppercase;
+    width: 50%;
+    justify-content: center;
+    text-align: center;
+    border:2px solid #2980B9;
+    border-radius:5px;
+    color: white;
+    background-color: #2980B9;
+}
+
+input, textarea{
+    display:block;
+    width:100%;
+    border:2px solid #2980B9;
+    padding:.5em;
+    border-radius:5px;
+}
+    
+
+  
+.send-btn{
+    border:0;
+    background:#058605e5;
+    padding:10px;
+    color:white;
+    margin-top: 10px;
+    width:100%;
+    text-transform:uppercase;
+    cursor:pointer;
+    transition:.3s background ease;
+    
+}
+.send-btn:hover{
+    background:#3498DB;
+}
+
+
+.footer{
+    background: #232323;
+    padding: 30px 0 0 0;
+    font-size: 12px;
+    color: #999;
+    margin-top: 20px;
+}
